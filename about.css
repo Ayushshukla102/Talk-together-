@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+span{
+    color: red;
+    font-weight: bolder;
+}
+button{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    background: transparent;
+    transition: 0.8s;
+}
+button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}

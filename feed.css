@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.body{
+    font-size: xx-large;
+    text-align: center;
+    background-color: red;
+    padding: 50px;
+    border-radius: 30px;
+}
+.btn{
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: aqua;
+    font-weight: bolder;
+    transition: 0.8s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: aqua;
+}
